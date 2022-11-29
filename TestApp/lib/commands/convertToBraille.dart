@@ -119,3 +119,6 @@ String isCharUpperCase(String char) {
   }
   return char;
 }
+
+
+//Mandar 6 y 2 seguidos para hacer el salto de renglon y cambio de dirección cada 30 caracteres (60 puntos)
